@@ -1,0 +1,2 @@
+# newtrailm.py
+trail method
